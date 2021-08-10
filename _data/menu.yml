@@ -4,7 +4,11 @@
 entries:
   - title: me
     entries:
-      - title: Marketing Person, Content Creator, Graphic Designer, Videographer, No-Time Web Developer, DIYer, Home Automation Enthusiast, Made In China, Male
+      - title: Marketing Person, Content Creator, Graphic Designer
+      - title: No-Time Web Developer
+      - title: Home Automation Enthusiast
+      - title: Made In China
+      - title: Male
       - title: Youtube
         url: https://www.youtube.com/channel/UClIZ_Qz5Bvj6NFrFbGuYI_A
       - title: Bilibili
