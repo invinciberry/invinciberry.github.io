@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Introduction
-slug: intro
 ---
 
 
