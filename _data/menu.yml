@@ -4,10 +4,15 @@
 entries:
   - title: me
     entries:
-      - title: a (nearly) no-CSS, fast, minimalist Jekyll theme.
-      - title: github repo
-        url: https://github.com/riggraz/no-style-please
-      - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
+      - title: Marketing Person, Content Creator, Graphic Designer, Videographer, No-Time Web Developer, DIYer, Home Automation Enthusiast, Made In China, Male
+      - title: Youtube
+        url: https://www.youtube.com/channel/UClIZ_Qz5Bvj6NFrFbGuYI_A
+      - title: Bilibili
+        url: https://space.bilibili.com/2654769?spm_id_from=333.788.b_765f7570696e666f.1
+      - title: Github
+        url: https://github.com/invinciberry
+      - title: Twitter (Mostly Chinese)
+        url: https://twitter.com/Invinciberry
 
   - title: all posts
     post_list:
