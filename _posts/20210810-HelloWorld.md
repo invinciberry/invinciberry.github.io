@@ -1,6 +1,7 @@
 ---
 layout: post
-category: blog
+title: Introduction
+slug: intro
 ---
 
 
