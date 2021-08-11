@@ -2,14 +2,14 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: never too much | <h6>me</h6>
+  - title: never too much "#me"
     entries:
       - title: Marketing Person, Content Creator, Graphic Designer
       - title: Web Developer, Home Automation Enthusiast
       - title: Made In China, Oh Canada♫
       - title: Male
 
-  - title: catch me if you can
+  - title: catch me if you can "#links"
     entries:
       - title: "<a href='https://www.youtube.com/channel/UClIZ_Qz5Bvj6NFrFbGuYI_A'>Youtube</a>, <a href='https://space.bilibili.com/2654769'>哔哩哔哩</a>"
       - title: Github
