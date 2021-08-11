@@ -2,7 +2,7 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: never too much
+  - title: never too much | "######me"
     entries:
       - title: Marketing Person, Content Creator, Graphic Designer
       - title: Web Developer, Home Automation Enthusiast
